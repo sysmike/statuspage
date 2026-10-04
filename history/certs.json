@@ -2,26 +2,26 @@
   "backupmx": {
     "validTo": "2026-11-15T08:37:17.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-04T01:30:11.419Z"
+    "checkedAt": "2026-10-04T14:00:13.582Z"
   },
   "blog": {
     "validTo": "2026-11-30T14:10:18.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-04T01:30:11.419Z"
+    "checkedAt": "2026-10-04T14:00:13.582Z"
   },
   "mail": {
-    "validTo": "2026-11-02T05:56:09.000Z",
+    "validTo": "2027-01-02T04:46:39.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-04T01:30:11.419Z"
+    "checkedAt": "2026-10-04T14:00:13.582Z"
   },
   "umami": {
     "validTo": "2026-11-30T14:10:18.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-04T01:30:11.419Z"
+    "checkedAt": "2026-10-04T14:00:13.582Z"
   },
   "vcard": {
     "validTo": "2026-11-30T14:09:39.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-04T01:30:11.419Z"
+    "checkedAt": "2026-10-04T14:00:13.582Z"
   }
 }
