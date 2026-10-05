@@ -6,15 +6,15 @@
     "issue": null
   },
   "blog": {
-    "status": "up",
-    "since": "2026-10-04T06:00:08Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-05T03:00:09Z",
+    "failures": 1,
     "issue": null
   },
   "umami": {
-    "status": "up",
-    "since": "2026-10-04T06:00:08Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-05T03:00:09Z",
+    "failures": 1,
     "issue": null
   },
   "cswiki": {
@@ -30,15 +30,15 @@
     "issue": null
   },
   "teamspeak": {
-    "status": "up",
-    "since": "2026-10-04T06:00:08Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-05T03:00:09Z",
+    "failures": 1,
     "issue": null
   },
   "vcard": {
-    "status": "up",
-    "since": "2026-10-04T06:00:08Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-05T03:00:09Z",
+    "failures": 1,
     "issue": null
   },
   "home": {
