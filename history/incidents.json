@@ -1,5 +1,95 @@
 [
   {
+    "number": 6,
+    "title": "vCard is down",
+    "url": "https://github.com/sysmike/statuspage/issues/6",
+    "state": "closed",
+    "createdAt": "2026-10-06T02:00:19Z",
+    "closedAt": "2026-10-06T02:30:20Z",
+    "labels": [
+      "status",
+      "incident"
+    ],
+    "monitor": "vcard",
+    "monitors": [
+      "vcard"
+    ],
+    "startsAt": null,
+    "body": "**vCard** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-06T01:30:11Z\n\nThis issue closes automatically once the monitor recovers.",
+    "maintenance": false,
+    "commentCount": 1,
+    "seenComments": 1,
+    "comments": [
+      {
+        "author": "github-actions[bot]",
+        "bot": true,
+        "createdAt": "2026-10-06T02:30:19Z",
+        "url": "https://github.com/sysmike/statuspage/issues/6#issuecomment-6008112712",
+        "body": "Recovered after 1h 0m — 200 in 1029ms."
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Umami is down",
+    "url": "https://github.com/sysmike/statuspage/issues/5",
+    "state": "closed",
+    "createdAt": "2026-10-06T02:00:19Z",
+    "closedAt": "2026-10-06T02:30:18Z",
+    "labels": [
+      "status",
+      "incident"
+    ],
+    "monitor": "umami",
+    "monitors": [
+      "umami"
+    ],
+    "startsAt": null,
+    "body": "**Umami** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-06T01:30:11Z\n\nThis issue closes automatically once the monitor recovers.",
+    "maintenance": false,
+    "commentCount": 1,
+    "seenComments": 1,
+    "comments": [
+      {
+        "author": "github-actions[bot]",
+        "bot": true,
+        "createdAt": "2026-10-06T02:30:18Z",
+        "url": "https://github.com/sysmike/statuspage/issues/5#issuecomment-6008112462",
+        "body": "Recovered after 1h 0m — 200 in 724ms."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Teamspeak is down",
+    "url": "https://github.com/sysmike/statuspage/issues/4",
+    "state": "closed",
+    "createdAt": "2026-10-06T02:00:18Z",
+    "closedAt": "2026-10-06T02:30:17Z",
+    "labels": [
+      "status",
+      "incident"
+    ],
+    "monitor": "teamspeak",
+    "monitors": [
+      "teamspeak"
+    ],
+    "startsAt": null,
+    "body": "**Teamspeak** is no longer responding as expected.\n\n- Error: unknown\n- Response code: none\n- First failure: 2026-10-06T01:30:11Z\n\nThis issue closes automatically once the monitor recovers.",
+    "maintenance": false,
+    "commentCount": 1,
+    "seenComments": 1,
+    "comments": [
+      {
+        "author": "github-actions[bot]",
+        "bot": true,
+        "createdAt": "2026-10-06T02:30:16Z",
+        "url": "https://github.com/sysmike/statuspage/issues/4#issuecomment-6008112241",
+        "body": "Recovered after 1h 0m — 0 in 374ms."
+      }
+    ]
+  },
+  {
     "number": 3,
     "title": "Backup MX is down",
     "url": "https://github.com/sysmike/statuspage/issues/3",
