@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-06T22:30:15.069Z",
+  "generatedAt": "2026-10-06T23:00:12.136Z",
   "monitors": {
     "home": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
+      "lastCheck": "2026-10-06T23:00:09Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-06",
           "state": "up",
-          "checks": 50,
+          "checks": 51,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -41,7 +41,7 @@
     },
     "pangolin": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
+      "lastCheck": "2026-10-06T23:00:09Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -70,7 +70,7 @@
         {
           "date": "2026-10-06",
           "state": "up",
-          "checks": 50,
+          "checks": 51,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -79,12 +79,12 @@
     },
     "backupmx": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
-      "lastMs": 972,
+      "lastCheck": "2026-10-06T23:00:09Z",
+      "lastMs": 849,
       "lastCode": 200,
       "since": "2026-10-06T02:00:14Z",
       "uptime": {
-        "day": 98,
+        "day": 98.04,
         "week": 99.71,
         "month": 99.06
       },
@@ -108,23 +108,23 @@
         {
           "date": "2026-10-06",
           "state": "partial",
-          "checks": 50,
+          "checks": 51,
           "down": 1,
           "degraded": 0,
-          "avg": 875
+          "avg": 874
         }
       ]
     },
     "blog": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
-      "lastMs": 831,
+      "lastCheck": "2026-10-06T23:00:09Z",
+      "lastMs": 550,
       "lastCode": 200,
       "since": "2026-10-06T02:30:13Z",
       "uptime": {
-        "day": 98,
-        "week": 98.85,
-        "month": 99.41
+        "day": 98.04,
+        "week": 98.86,
+        "month": 99.42
       },
       "days": [
         {
@@ -146,17 +146,17 @@
         {
           "date": "2026-10-06",
           "state": "partial",
-          "checks": 50,
+          "checks": 51,
           "down": 1,
           "degraded": 0,
-          "avg": 725
+          "avg": 722
         }
       ]
     },
     "mail": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
-      "lastMs": 983,
+      "lastCheck": "2026-10-06T23:00:09Z",
+      "lastMs": 641,
       "lastCode": 200,
       "since": "2026-09-12T03:09:21Z",
       "uptime": {
@@ -184,16 +184,16 @@
         {
           "date": "2026-10-06",
           "state": "up",
-          "checks": 50,
+          "checks": 51,
           "down": 0,
           "degraded": 0,
-          "avg": 823
+          "avg": 819
         }
       ]
     },
     "minecraft": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
+      "lastCheck": "2026-10-06T23:00:09Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-13T12:57:48Z",
@@ -222,7 +222,7 @@
         {
           "date": "2026-10-06",
           "state": "up",
-          "checks": 50,
+          "checks": 51,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -231,14 +231,14 @@
     },
     "teamspeak": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
-      "lastMs": 572,
+      "lastCheck": "2026-10-06T23:00:09Z",
+      "lastMs": 483,
       "lastCode": 0,
       "since": "2026-10-06T02:30:13Z",
       "uptime": {
-        "day": 96,
+        "day": 96.08,
         "week": 98.57,
-        "month": 99.41
+        "month": 99.42
       },
       "days": [
         {
@@ -260,23 +260,23 @@
         {
           "date": "2026-10-06",
           "state": "partial",
-          "checks": 50,
+          "checks": 51,
           "down": 2,
           "degraded": 0,
-          "avg": 510
+          "avg": 509
         }
       ]
     },
     "umami": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
-      "lastMs": 1254,
+      "lastCheck": "2026-10-06T23:00:09Z",
+      "lastMs": 845,
       "lastCode": 200,
       "since": "2026-10-06T02:30:13Z",
       "uptime": {
-        "day": 96,
+        "day": 96.08,
         "week": 98.57,
-        "month": 99.41
+        "month": 99.42
       },
       "days": [
         {
@@ -298,23 +298,23 @@
         {
           "date": "2026-10-06",
           "state": "partial",
-          "checks": 50,
+          "checks": 51,
           "down": 2,
           "degraded": 0,
-          "avg": 996
+          "avg": 993
         }
       ]
     },
     "vcard": {
       "status": "up",
-      "lastCheck": "2026-10-06T22:30:12Z",
-      "lastMs": 1292,
+      "lastCheck": "2026-10-06T23:00:09Z",
+      "lastMs": 1115,
       "lastCode": 200,
       "since": "2026-10-06T02:30:13Z",
       "uptime": {
-        "day": 96,
+        "day": 96.08,
         "week": 98.57,
-        "month": 99.41
+        "month": 99.42
       },
       "days": [
         {
@@ -336,7 +336,7 @@
         {
           "date": "2026-10-06",
           "state": "partial",
-          "checks": 50,
+          "checks": 51,
           "down": 2,
           "degraded": 0,
           "avg": 1130
