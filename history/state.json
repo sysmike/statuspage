@@ -1,21 +1,21 @@
 {
   "backupmx": {
-    "status": "down",
-    "since": "2026-10-06T01:30:11Z",
-    "failures": 1,
+    "status": "up",
+    "since": "2026-10-06T02:00:14Z",
+    "failures": 0,
     "issue": null
   },
   "blog": {
-    "status": "up",
-    "since": "2026-10-05T03:30:11Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-06T02:00:14Z",
+    "failures": 1,
     "issue": null
   },
   "umami": {
     "status": "down",
     "since": "2026-10-06T01:30:11Z",
-    "failures": 1,
-    "issue": null
+    "failures": 2,
+    "issue": 5
   },
   "cswiki": {
     "status": "up",
@@ -32,14 +32,14 @@
   "teamspeak": {
     "status": "down",
     "since": "2026-10-06T01:30:11Z",
-    "failures": 1,
-    "issue": null
+    "failures": 2,
+    "issue": 4
   },
   "vcard": {
     "status": "down",
     "since": "2026-10-06T01:30:11Z",
-    "failures": 1,
-    "issue": null
+    "failures": 2,
+    "issue": 6
   },
   "home": {
     "status": "up",
