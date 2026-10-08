@@ -5,7 +5,7 @@ running entirely on GitHub: checks run as a scheduled Action, history is
 committed to this repository, outages open and close GitHub issues, and the
 status page is published with GitHub Pages.
 
-[Upstream](https://github.com/sysmike/stillup)
+[Upstream is here](https://github.com/sysmike/stillup)
 
 ## License
 
