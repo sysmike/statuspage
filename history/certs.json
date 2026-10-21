@@ -2,7 +2,7 @@
   "backupmx": {
     "validTo": "2027-01-15T01:27:01.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-20T20:30:12.981Z"
+    "checkedAt": "2026-10-21T09:00:10.520Z"
   },
   "blog": {
     "validTo": "2026-11-30T14:10:18.000Z",
@@ -12,7 +12,7 @@
   "mail": {
     "validTo": "2027-01-02T04:46:39.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-10-20T20:30:12.981Z"
+    "checkedAt": "2026-10-21T09:00:10.520Z"
   },
   "umami": {
     "validTo": "2026-11-30T14:10:18.000Z",
