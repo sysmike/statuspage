@@ -1,8 +1,8 @@
 {
   "backupmx": {
-    "status": "up",
-    "since": "2026-10-12T07:03:04Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-21T15:30:10Z",
+    "failures": 1,
     "issue": null
   },
   "blog": {
@@ -24,9 +24,9 @@
     "issue": null
   },
   "mail": {
-    "status": "up",
-    "since": "2026-09-12T03:09:21Z",
-    "failures": 0,
+    "status": "down",
+    "since": "2026-10-21T15:30:10Z",
+    "failures": 1,
     "issue": null
   },
   "teamspeak": {
