@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T16:00:13.689Z",
+  "generatedAt": "2026-10-21T16:30:14.835Z",
   "monitors": {
     "home": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
+      "lastCheck": "2026-10-21T16:30:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -41,7 +41,7 @@
     },
     "pangolin": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
+      "lastCheck": "2026-10-21T16:30:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -70,7 +70,7 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -79,14 +79,14 @@
     },
     "backupmx": {
       "status": "down",
-      "lastCheck": "2026-10-21T16:00:09Z",
+      "lastCheck": "2026-10-21T16:30:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
-        "day": 94.44,
-        "week": 99.45,
-        "month": 99.66
+        "day": 91.89,
+        "week": 99.18,
+        "month": 99.6
       },
       "days": [
         {
@@ -108,8 +108,8 @@
         {
           "date": "2026-10-21",
           "state": "partial",
-          "checks": 36,
-          "down": 2,
+          "checks": 37,
+          "down": 3,
           "degraded": 0,
           "avg": 866
         }
@@ -117,8 +117,8 @@
     },
     "blog": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
-      "lastMs": 671,
+      "lastCheck": "2026-10-21T16:30:11Z",
+      "lastMs": 698,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -146,23 +146,23 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
-          "avg": 679
+          "avg": 680
         }
       ]
     },
     "mail": {
       "status": "down",
-      "lastCheck": "2026-10-21T16:00:09Z",
+      "lastCheck": "2026-10-21T16:30:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
-        "day": 94.44,
-        "week": 99.45,
-        "month": 99.87
+        "day": 91.89,
+        "week": 99.18,
+        "month": 99.8
       },
       "days": [
         {
@@ -184,8 +184,8 @@
         {
           "date": "2026-10-21",
           "state": "partial",
-          "checks": 36,
-          "down": 2,
+          "checks": 37,
+          "down": 3,
           "degraded": 0,
           "avg": 779
         }
@@ -193,7 +193,7 @@
     },
     "minecraft": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
+      "lastCheck": "2026-10-21T16:30:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-13T12:57:48Z",
@@ -222,7 +222,7 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -231,8 +231,8 @@
     },
     "teamspeak": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
-      "lastMs": 565,
+      "lastCheck": "2026-10-21T16:30:11Z",
+      "lastMs": 486,
       "lastCode": 0,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -260,17 +260,17 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
-          "avg": 447
+          "avg": 448
         }
       ]
     },
     "umami": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
-      "lastMs": 803,
+      "lastCheck": "2026-10-21T16:30:11Z",
+      "lastMs": 1086,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -298,17 +298,17 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
-          "avg": 945
+          "avg": 949
         }
       ]
     },
     "vcard": {
       "status": "up",
-      "lastCheck": "2026-10-21T16:00:09Z",
-      "lastMs": 936,
+      "lastCheck": "2026-10-21T16:30:11Z",
+      "lastMs": 1291,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -336,15 +336,59 @@
         {
           "date": "2026-10-21",
           "state": "up",
-          "checks": 36,
+          "checks": 37,
           "down": 0,
           "degraded": 0,
-          "avg": 1092
+          "avg": 1097
         }
       ]
     }
   },
   "incidents": [
+    {
+      "number": 8,
+      "title": "Mailserver is down",
+      "url": "https://github.com/sysmike/statuspage/issues/8",
+      "state": "open",
+      "createdAt": "2026-10-21T16:00:12Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "mail",
+      "monitors": [
+        "mail"
+      ],
+      "startsAt": null,
+      "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    },
+    {
+      "number": 7,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/7",
+      "state": "open",
+      "createdAt": "2026-10-21T16:00:12Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    },
     {
       "number": 6,
       "title": "vCard is down",

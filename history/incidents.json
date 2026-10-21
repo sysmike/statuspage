@@ -1,5 +1,49 @@
 [
   {
+    "number": 8,
+    "title": "Mailserver is down",
+    "url": "https://github.com/sysmike/statuspage/issues/8",
+    "state": "open",
+    "createdAt": "2026-10-21T16:00:12Z",
+    "closedAt": null,
+    "labels": [
+      "status",
+      "incident"
+    ],
+    "monitor": "mail",
+    "monitors": [
+      "mail"
+    ],
+    "startsAt": null,
+    "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+    "maintenance": false,
+    "commentCount": 0,
+    "seenComments": 0,
+    "comments": []
+  },
+  {
+    "number": 7,
+    "title": "Backup MX is down",
+    "url": "https://github.com/sysmike/statuspage/issues/7",
+    "state": "open",
+    "createdAt": "2026-10-21T16:00:12Z",
+    "closedAt": null,
+    "labels": [
+      "status",
+      "incident"
+    ],
+    "monitor": "backupmx",
+    "monitors": [
+      "backupmx"
+    ],
+    "startsAt": null,
+    "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+    "maintenance": false,
+    "commentCount": 0,
+    "seenComments": 0,
+    "comments": []
+  },
+  {
     "number": 6,
     "title": "vCard is down",
     "url": "https://github.com/sysmike/statuspage/issues/6",
