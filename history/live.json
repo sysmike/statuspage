@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T17:05:24.608Z",
+  "generatedAt": "2026-10-22T17:30:13.493Z",
   "monitors": {
     "home": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
+      "lastCheck": "2026-10-22T17:30:10Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -41,7 +41,7 @@
     },
     "pangolin": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
+      "lastCheck": "2026-10-22T17:30:10Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -70,7 +70,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -79,14 +79,14 @@
     },
     "backupmx": {
       "status": "down",
-      "lastCheck": "2026-10-22T17:05:19Z",
+      "lastCheck": "2026-10-22T17:30:10Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
         "day": 0,
-        "week": 83.42,
-        "month": 95.72
+        "week": 82.97,
+        "month": 95.59
       },
       "days": [
         {
@@ -108,8 +108,8 @@
         {
           "date": "2026-10-22",
           "state": "down",
-          "checks": 42,
-          "down": 42,
+          "checks": 44,
+          "down": 44,
           "degraded": 0,
           "avg": 0
         }
@@ -117,8 +117,8 @@
     },
     "blog": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
-      "lastMs": 685,
+      "lastCheck": "2026-10-22T17:30:10Z",
+      "lastMs": 453,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -146,23 +146,23 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
-          "avg": 740
+          "avg": 732
         }
       ]
     },
     "mail": {
       "status": "down",
-      "lastCheck": "2026-10-22T17:05:19Z",
+      "lastCheck": "2026-10-22T17:30:10Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
         "day": 0,
-        "week": 83.42,
-        "month": 95.92
+        "week": 82.97,
+        "month": 95.79
       },
       "days": [
         {
@@ -184,8 +184,8 @@
         {
           "date": "2026-10-22",
           "state": "down",
-          "checks": 42,
-          "down": 42,
+          "checks": 44,
+          "down": 44,
           "degraded": 0,
           "avg": 0
         }
@@ -193,7 +193,7 @@
     },
     "minecraft": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
+      "lastCheck": "2026-10-22T17:30:10Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-13T12:57:48Z",
@@ -222,7 +222,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -231,8 +231,8 @@
     },
     "teamspeak": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
-      "lastMs": 391,
+      "lastCheck": "2026-10-22T17:30:10Z",
+      "lastMs": 375,
       "lastCode": 0,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -260,17 +260,17 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
-          "avg": 467
+          "avg": 463
         }
       ]
     },
     "umami": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
-      "lastMs": 919,
+      "lastCheck": "2026-10-22T17:30:10Z",
+      "lastMs": 876,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -298,17 +298,17 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
-          "avg": 1011
+          "avg": 1002
         }
       ]
     },
     "vcard": {
       "status": "up",
-      "lastCheck": "2026-10-22T17:05:19Z",
-      "lastMs": 909,
+      "lastCheck": "2026-10-22T17:30:10Z",
+      "lastMs": 897,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -336,15 +336,59 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 42,
+          "checks": 44,
           "down": 0,
           "degraded": 0,
-          "avg": 1131
+          "avg": 1120
         }
       ]
     }
   },
   "incidents": [
+    {
+      "number": 18,
+      "title": "Mailserver is down",
+      "url": "https://github.com/sysmike/statuspage/issues/18",
+      "state": "open",
+      "createdAt": "2026-10-22T17:05:22Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "mail",
+      "monitors": [
+        "mail"
+      ],
+      "startsAt": null,
+      "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    },
+    {
+      "number": 17,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/17",
+      "state": "open",
+      "createdAt": "2026-10-22T17:05:21Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    },
     {
       "number": 16,
       "title": "Mailserver is down",
