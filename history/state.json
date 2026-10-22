@@ -2,7 +2,7 @@
   "backupmx": {
     "status": "down",
     "since": "2026-10-21T15:30:10Z",
-    "failures": 55,
+    "failures": 56,
     "issue": 9
   },
   "blog": {
@@ -26,8 +26,8 @@
   "mail": {
     "status": "down",
     "since": "2026-10-21T15:30:10Z",
-    "failures": 55,
-    "issue": 10
+    "failures": 56,
+    "issue": 8
   },
   "teamspeak": {
     "status": "up",
