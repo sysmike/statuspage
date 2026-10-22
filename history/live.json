@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T13:30:12.838Z",
+  "generatedAt": "2026-10-22T14:00:17.183Z",
   "monitors": {
     "home": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
+      "lastCheck": "2026-10-22T14:00:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -41,7 +41,7 @@
     },
     "pangolin": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
+      "lastCheck": "2026-10-22T14:00:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -70,7 +70,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -79,14 +79,14 @@
     },
     "backupmx": {
       "status": "down",
-      "lastCheck": "2026-10-22T13:30:09Z",
+      "lastCheck": "2026-10-22T14:00:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
         "day": 0,
-        "week": 85.99,
-        "month": 96.43
+        "week": 85.75,
+        "month": 96.36
       },
       "days": [
         {
@@ -108,8 +108,8 @@
         {
           "date": "2026-10-22",
           "state": "down",
-          "checks": 31,
-          "down": 31,
+          "checks": 32,
+          "down": 32,
           "degraded": 0,
           "avg": 0
         }
@@ -117,8 +117,8 @@
     },
     "blog": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
-      "lastMs": 652,
+      "lastCheck": "2026-10-22T14:00:11Z",
+      "lastMs": 872,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -146,23 +146,23 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
-          "avg": 746
+          "avg": 750
         }
       ]
     },
     "mail": {
       "status": "down",
-      "lastCheck": "2026-10-22T13:30:09Z",
+      "lastCheck": "2026-10-22T14:00:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
         "day": 0,
-        "week": 85.99,
-        "month": 96.63
+        "week": 85.75,
+        "month": 96.57
       },
       "days": [
         {
@@ -184,8 +184,8 @@
         {
           "date": "2026-10-22",
           "state": "down",
-          "checks": 31,
-          "down": 31,
+          "checks": 32,
+          "down": 32,
           "degraded": 0,
           "avg": 0
         }
@@ -193,7 +193,7 @@
     },
     "minecraft": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
+      "lastCheck": "2026-10-22T14:00:11Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-13T12:57:48Z",
@@ -222,7 +222,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -231,8 +231,8 @@
     },
     "teamspeak": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
-      "lastMs": 432,
+      "lastCheck": "2026-10-22T14:00:11Z",
+      "lastMs": 519,
       "lastCode": 0,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -260,17 +260,17 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
-          "avg": 475
+          "avg": 476
         }
       ]
     },
     "umami": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
-      "lastMs": 803,
+      "lastCheck": "2026-10-22T14:00:11Z",
+      "lastMs": 988,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -298,17 +298,17 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
-          "avg": 1021
+          "avg": 1020
         }
       ]
     },
     "vcard": {
       "status": "up",
-      "lastCheck": "2026-10-22T13:30:09Z",
-      "lastMs": 867,
+      "lastCheck": "2026-10-22T14:00:11Z",
+      "lastMs": 1281,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -336,10 +336,10 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 31,
+          "checks": 32,
           "down": 0,
           "degraded": 0,
-          "avg": 1166
+          "avg": 1170
         }
       ]
     }
@@ -363,9 +363,17 @@
       "startsAt": null,
       "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
       "maintenance": false,
-      "commentCount": 0,
-      "seenComments": 0,
-      "comments": []
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-10-22T13:58:14Z",
+          "url": "https://github.com/sysmike/statuspage/issues/8#issuecomment-6342583851",
+          "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        }
+      ]
     },
     {
       "number": 7,
@@ -385,9 +393,17 @@
       "startsAt": null,
       "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
       "maintenance": false,
-      "commentCount": 0,
-      "seenComments": 0,
-      "comments": []
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-10-22T13:58:25Z",
+          "url": "https://github.com/sysmike/statuspage/issues/7#issuecomment-6342587684",
+          "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        }
+      ]
     },
     {
       "number": 6,
