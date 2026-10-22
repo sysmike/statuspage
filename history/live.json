@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T15:32:54.086Z",
+  "generatedAt": "2026-10-22T16:00:18.706Z",
   "monitors": {
     "home": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
+      "lastCheck": "2026-10-22T16:00:12Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -41,7 +41,7 @@
     },
     "pangolin": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
+      "lastCheck": "2026-10-22T16:00:12Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -70,7 +70,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -79,14 +79,14 @@
     },
     "backupmx": {
       "status": "down",
-      "lastCheck": "2026-10-22T15:32:50Z",
+      "lastCheck": "2026-10-22T16:00:12Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
         "day": 0,
-        "week": 84.57,
-        "month": 96.04
+        "week": 84.11,
+        "month": 95.91
       },
       "days": [
         {
@@ -108,8 +108,8 @@
         {
           "date": "2026-10-22",
           "state": "down",
-          "checks": 37,
-          "down": 37,
+          "checks": 39,
+          "down": 39,
           "degraded": 0,
           "avg": 0
         }
@@ -117,8 +117,8 @@
     },
     "blog": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
-      "lastMs": 543,
+      "lastCheck": "2026-10-22T16:00:12Z",
+      "lastMs": 716,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -146,23 +146,23 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
-          "avg": 750
+          "avg": 744
         }
       ]
     },
     "mail": {
       "status": "down",
-      "lastCheck": "2026-10-22T15:32:50Z",
+      "lastCheck": "2026-10-22T16:00:12Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-10-21T15:30:10Z",
       "uptime": {
         "day": 0,
-        "week": 84.57,
-        "month": 96.24
+        "week": 84.11,
+        "month": 96.11
       },
       "days": [
         {
@@ -184,8 +184,8 @@
         {
           "date": "2026-10-22",
           "state": "down",
-          "checks": 37,
-          "down": 37,
+          "checks": 39,
+          "down": 39,
           "degraded": 0,
           "avg": 0
         }
@@ -193,7 +193,7 @@
     },
     "minecraft": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
+      "lastCheck": "2026-10-22T16:00:12Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-13T12:57:48Z",
@@ -222,7 +222,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -231,8 +231,8 @@
     },
     "teamspeak": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
-      "lastMs": 361,
+      "lastCheck": "2026-10-22T16:00:12Z",
+      "lastMs": 472,
       "lastCode": 0,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -260,7 +260,7 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
           "avg": 469
@@ -269,8 +269,8 @@
     },
     "umami": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
-      "lastMs": 691,
+      "lastCheck": "2026-10-22T16:00:12Z",
+      "lastMs": 1063,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -298,17 +298,17 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
-          "avg": 1010
+          "avg": 1011
         }
       ]
     },
     "vcard": {
       "status": "up",
-      "lastCheck": "2026-10-22T15:32:50Z",
-      "lastMs": 1012,
+      "lastCheck": "2026-10-22T16:00:12Z",
+      "lastMs": 1102,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -336,13 +336,365 @@
         {
           "date": "2026-10-22",
           "state": "up",
-          "checks": 37,
+          "checks": 39,
           "down": 0,
           "degraded": 0,
-          "avg": 1131
+          "avg": 1128
         }
       ]
     }
   },
-  "incidents": []
+  "incidents": [
+    {
+      "number": 12,
+      "title": "Mailserver is down",
+      "url": "https://github.com/sysmike/statuspage/issues/12",
+      "state": "open",
+      "createdAt": "2026-10-22T15:33:33Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "mail",
+      "monitors": [
+        "mail"
+      ],
+      "startsAt": null,
+      "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    },
+    {
+      "number": 11,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/11",
+      "state": "open",
+      "createdAt": "2026-10-22T15:33:32Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    },
+    {
+      "number": 10,
+      "title": "Mailserver is down",
+      "url": "https://github.com/sysmike/statuspage/issues/10",
+      "state": "closed",
+      "createdAt": "2026-10-22T15:30:16Z",
+      "closedAt": "2026-10-22T15:32:42Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "mail",
+      "monitors": [
+        "mail"
+      ],
+      "startsAt": null,
+      "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-10-22T15:32:42Z",
+          "url": "https://github.com/sysmike/statuspage/issues/10#issuecomment-6344642334",
+          "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/9",
+      "state": "closed",
+      "createdAt": "2026-10-22T15:30:16Z",
+      "closedAt": "2026-10-22T15:32:49Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-10-22T15:32:49Z",
+          "url": "https://github.com/sysmike/statuspage/issues/9#issuecomment-6344644951",
+          "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Mailserver is down",
+      "url": "https://github.com/sysmike/statuspage/issues/8",
+      "state": "open",
+      "createdAt": "2026-10-21T16:00:12Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "mail",
+      "monitors": [
+        "mail"
+      ],
+      "startsAt": null,
+      "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-10-22T13:58:14Z",
+          "url": "https://github.com/sysmike/statuspage/issues/8#issuecomment-6342583851",
+          "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/7",
+      "state": "open",
+      "createdAt": "2026-10-21T16:00:12Z",
+      "closedAt": null,
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-10-22T13:58:25Z",
+          "url": "https://github.com/sysmike/statuspage/issues/7#issuecomment-6342587684",
+          "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "vCard is down",
+      "url": "https://github.com/sysmike/statuspage/issues/6",
+      "state": "closed",
+      "createdAt": "2026-10-06T02:00:19Z",
+      "closedAt": "2026-10-06T02:30:20Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "vcard",
+      "monitors": [
+        "vcard"
+      ],
+      "startsAt": null,
+      "body": "**vCard** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-06T01:30:11Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "github-actions[bot]",
+          "bot": true,
+          "createdAt": "2026-10-06T02:30:19Z",
+          "url": "https://github.com/sysmike/statuspage/issues/6#issuecomment-6008112712",
+          "body": "Recovered after 1h 0m — 200 in 1029ms."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Umami is down",
+      "url": "https://github.com/sysmike/statuspage/issues/5",
+      "state": "closed",
+      "createdAt": "2026-10-06T02:00:19Z",
+      "closedAt": "2026-10-06T02:30:18Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "umami",
+      "monitors": [
+        "umami"
+      ],
+      "startsAt": null,
+      "body": "**Umami** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-06T01:30:11Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "github-actions[bot]",
+          "bot": true,
+          "createdAt": "2026-10-06T02:30:18Z",
+          "url": "https://github.com/sysmike/statuspage/issues/5#issuecomment-6008112462",
+          "body": "Recovered after 1h 0m — 200 in 724ms."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Teamspeak is down",
+      "url": "https://github.com/sysmike/statuspage/issues/4",
+      "state": "closed",
+      "createdAt": "2026-10-06T02:00:18Z",
+      "closedAt": "2026-10-06T02:30:17Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "teamspeak",
+      "monitors": [
+        "teamspeak"
+      ],
+      "startsAt": null,
+      "body": "**Teamspeak** is no longer responding as expected.\n\n- Error: unknown\n- Response code: none\n- First failure: 2026-10-06T01:30:11Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 1,
+      "seenComments": 1,
+      "comments": [
+        {
+          "author": "github-actions[bot]",
+          "bot": true,
+          "createdAt": "2026-10-06T02:30:16Z",
+          "url": "https://github.com/sysmike/statuspage/issues/4#issuecomment-6008112241",
+          "body": "Recovered after 1h 0m — 0 in 374ms."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/3",
+      "state": "closed",
+      "createdAt": "2026-09-13T21:19:21Z",
+      "closedAt": "2026-09-13T21:36:59Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** stopped responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-09-13T21:17:37Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 2,
+      "seenComments": 2,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-09-13T21:20:53Z",
+          "url": "https://github.com/sysmike/statuspage/issues/3#issuecomment-5656223500",
+          "body": "This is a test again"
+        },
+        {
+          "author": "github-actions[bot]",
+          "bot": true,
+          "createdAt": "2026-09-13T21:36:59Z",
+          "url": "https://github.com/sysmike/statuspage/issues/3#issuecomment-5656314309",
+          "body": "Recovered after 19 minutes — 200 in 929ms."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Backup MX is down",
+      "url": "https://github.com/sysmike/statuspage/issues/2",
+      "state": "closed",
+      "createdAt": "2026-09-13T00:04:09Z",
+      "closedAt": "2026-09-13T00:14:39Z",
+      "labels": [
+        "status",
+        "incident"
+      ],
+      "monitor": "backupmx",
+      "monitors": [
+        "backupmx"
+      ],
+      "startsAt": null,
+      "body": "**Backup MX** stopped responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-09-13T00:02:41Z\n\nThis issue closes automatically once the monitor recovers.",
+      "maintenance": false,
+      "commentCount": 2,
+      "seenComments": 2,
+      "comments": [
+        {
+          "author": "sysmike",
+          "bot": false,
+          "createdAt": "2026-09-13T00:05:44Z",
+          "url": "https://github.com/sysmike/statuspage/issues/2#issuecomment-5649567011",
+          "body": "This is a test"
+        },
+        {
+          "author": "github-actions[bot]",
+          "bot": true,
+          "createdAt": "2026-09-13T00:14:39Z",
+          "url": "https://github.com/sysmike/statuspage/issues/2#issuecomment-5649612402",
+          "body": "Recovered after 12 minutes — 200 in 1071ms."
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "title": "Maintenance: Updating Mailcow",
+      "url": "https://github.com/sysmike/statuspage/issues/1",
+      "state": "closed",
+      "createdAt": "2026-09-12T03:31:31Z",
+      "closedAt": "2026-09-12T10:02:03Z",
+      "labels": [
+        "status",
+        "maintenance"
+      ],
+      "monitor": null,
+      "monitors": [
+        "backupmx",
+        "mail"
+      ],
+      "startsAt": "2026-09-12T06:00:00.000Z",
+      "body": "### Window\n\n2026-09-12 06:00 - 06:05 UTC\n\n### Expected impact\n\nMailservers unavailable for 5 minutes\n\n### Affected monitors\n\nBACKUPMX, MAIL\n\n### Notes\n\n_No response_",
+      "maintenance": true,
+      "commentCount": 0,
+      "seenComments": 0,
+      "comments": []
+    }
+  ]
 }
