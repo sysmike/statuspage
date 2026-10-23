@@ -17,9 +17,17 @@
     "startsAt": null,
     "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
     "maintenance": false,
-    "commentCount": 0,
-    "seenComments": 0,
-    "comments": []
+    "commentCount": 1,
+    "seenComments": 1,
+    "comments": [
+      {
+        "author": "sysmike",
+        "bot": false,
+        "createdAt": "2026-10-23T02:15:13Z",
+        "url": "https://github.com/sysmike/statuspage/issues/18#issuecomment-6355767200",
+        "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+      }
+    ]
   },
   {
     "number": 17,
@@ -39,9 +47,17 @@
     "startsAt": null,
     "body": "**Backup MX** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
     "maintenance": false,
-    "commentCount": 0,
-    "seenComments": 0,
-    "comments": []
+    "commentCount": 1,
+    "seenComments": 1,
+    "comments": [
+      {
+        "author": "sysmike",
+        "bot": false,
+        "createdAt": "2026-10-23T02:15:21Z",
+        "url": "https://github.com/sysmike/statuspage/issues/17#issuecomment-6355768792",
+        "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+      }
+    ]
   },
   {
     "number": 16,
