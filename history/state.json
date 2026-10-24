@@ -26,7 +26,7 @@
   "mail": {
     "status": "down",
     "since": "2026-10-21T15:30:10Z",
-    "failures": 181,
+    "failures": 182,
     "issue": 18
   },
   "teamspeak": {
