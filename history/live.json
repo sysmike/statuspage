@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T10:30:12.251Z",
+  "generatedAt": "2026-10-25T11:00:21.137Z",
   "monitors": {
     "home": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
+      "lastCheck": "2026-10-25T11:00:14Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -41,7 +41,7 @@
     },
     "pangolin": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
+      "lastCheck": "2026-10-25T11:00:14Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-12T21:13:25Z",
@@ -70,7 +70,7 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -79,13 +79,13 @@
     },
     "backupmx": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
-      "lastMs": 709,
+      "lastCheck": "2026-10-25T11:00:14Z",
+      "lastMs": 865,
       "lastCode": 200,
       "since": "2026-10-24T16:00:12Z",
       "uptime": {
         "day": 100,
-        "week": 52.56,
+        "week": 52.69,
         "month": 88.76
       },
       "days": [
@@ -108,17 +108,17 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
-          "avg": 836
+          "avg": 837
         }
       ]
     },
     "blog": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
-      "lastMs": 758,
+      "lastCheck": "2026-10-25T11:00:14Z",
+      "lastMs": 738,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -146,23 +146,23 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
-          "avg": 650
+          "avg": 654
         }
       ]
     },
     "mail": {
-      "status": "down",
-      "lastCheck": "2026-10-25T10:30:08Z",
-      "lastMs": 0,
-      "lastCode": 0,
-      "since": "2026-10-21T15:30:10Z",
+      "status": "up",
+      "lastCheck": "2026-10-25T11:00:14Z",
+      "lastMs": 2504,
+      "lastCode": 200,
+      "since": "2026-10-25T11:00:14Z",
       "uptime": {
-        "day": 0,
-        "week": 40.06,
-        "month": 86.04
+        "day": 4,
+        "week": 40.23,
+        "month": 86.05
       },
       "days": [
         {
@@ -183,17 +183,17 @@
         },
         {
           "date": "2026-10-25",
-          "state": "down",
-          "checks": 24,
+          "state": "partial",
+          "checks": 25,
           "down": 24,
           "degraded": 0,
-          "avg": 0
+          "avg": 2504
         }
       ]
     },
     "minecraft": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
+      "lastCheck": "2026-10-25T11:00:14Z",
       "lastMs": 0,
       "lastCode": 0,
       "since": "2026-09-13T12:57:48Z",
@@ -222,7 +222,7 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
           "avg": 0
@@ -231,8 +231,8 @@
     },
     "teamspeak": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
-      "lastMs": 587,
+      "lastCheck": "2026-10-25T11:00:14Z",
+      "lastMs": 487,
       "lastCode": 0,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -260,17 +260,17 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
-          "avg": 397
+          "avg": 401
         }
       ]
     },
     "umami": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
-      "lastMs": 1086,
+      "lastCheck": "2026-10-25T11:00:14Z",
+      "lastMs": 922,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -298,17 +298,17 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
-          "avg": 902
+          "avg": 903
         }
       ]
     },
     "vcard": {
       "status": "up",
-      "lastCheck": "2026-10-25T10:30:08Z",
-      "lastMs": 1379,
+      "lastCheck": "2026-10-25T11:00:14Z",
+      "lastMs": 1069,
       "lastCode": 200,
       "since": "2026-10-13T20:30:15Z",
       "uptime": {
@@ -336,10 +336,10 @@
         {
           "date": "2026-10-25",
           "state": "up",
-          "checks": 24,
+          "checks": 25,
           "down": 0,
           "degraded": 0,
-          "avg": 1046
+          "avg": 1047
         }
       ]
     }
@@ -349,9 +349,9 @@
       "number": 18,
       "title": "Mailserver is down",
       "url": "https://github.com/sysmike/statuspage/issues/18",
-      "state": "open",
+      "state": "closed",
       "createdAt": "2026-10-22T17:05:22Z",
-      "closedAt": null,
+      "closedAt": "2026-10-25T11:00:19Z",
       "labels": [
         "status",
         "incident"
@@ -363,8 +363,8 @@
       "startsAt": null,
       "body": "**Mailserver** is no longer responding as expected.\n\n- Error: fetch failed\n- Response code: none\n- First failure: 2026-10-21T15:30:10Z\n\nThis issue closes automatically once the monitor recovers.",
       "maintenance": false,
-      "commentCount": 1,
-      "seenComments": 1,
+      "commentCount": 2,
+      "seenComments": 2,
       "comments": [
         {
           "author": "sysmike",
@@ -372,6 +372,13 @@
           "createdAt": "2026-10-23T02:15:13Z",
           "url": "https://github.com/sysmike/statuspage/issues/18#issuecomment-6355767200",
           "body": "Mailserver HTTP is bound to 127.0.0.1 until things with PHP2Shell settle down."
+        },
+        {
+          "author": "github-actions[bot]",
+          "bot": true,
+          "createdAt": "2026-10-25T11:00:19Z",
+          "url": "https://github.com/sysmike/statuspage/issues/18#issuecomment-6396797402",
+          "body": "Recovered after 3d 19h — 200 in 2504ms."
         }
       ]
     },

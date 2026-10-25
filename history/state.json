@@ -24,10 +24,10 @@
     "issue": null
   },
   "mail": {
-    "status": "down",
-    "since": "2026-10-21T15:30:10Z",
-    "failures": 209,
-    "issue": 18
+    "status": "up",
+    "since": "2026-10-25T11:00:14Z",
+    "failures": 0,
+    "issue": null
   },
   "teamspeak": {
     "status": "up",
