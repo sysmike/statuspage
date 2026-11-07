@@ -24,9 +24,9 @@
     "issue": null
   },
   "mail": {
-    "status": "down",
-    "since": "2026-11-07T12:30:13Z",
-    "failures": 1,
+    "status": "up",
+    "since": "2026-11-07T13:00:09Z",
+    "failures": 0,
     "issue": null
   },
   "teamspeak": {
