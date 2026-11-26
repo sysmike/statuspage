@@ -7,21 +7,21 @@
   "blog": {
     "validTo": "2027-01-30T15:23:08.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-11-25T17:00:14.936Z"
+    "checkedAt": "2026-11-26T05:30:12.035Z"
   },
   "mail": {
     "validTo": "2027-01-02T04:46:39.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-11-25T17:00:14.936Z"
+    "checkedAt": "2026-11-26T05:30:12.035Z"
   },
   "umami": {
     "validTo": "2027-01-30T15:23:08.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-11-25T17:00:14.936Z"
+    "checkedAt": "2026-11-26T05:30:12.035Z"
   },
   "vcard": {
     "validTo": "2027-01-30T15:22:29.000Z",
     "issuer": "Let's Encrypt",
-    "checkedAt": "2026-11-25T17:00:14.936Z"
+    "checkedAt": "2026-11-26T05:30:12.035Z"
   }
 }
